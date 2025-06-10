@@ -132,7 +132,7 @@ Paroolide turvaliseks salvestamiseks kasutame bcrypt krüpteerimist.
 
 Rollipõhine ligipääs on tagatud spetsiaalsete middleware’i abil: tavalised kasutajad pääsevad ligi ainult oma vaadetele, samas kui administraatoritele on loodud eraldi haldusmarsruudid.
 
-## 7. Kokkuvõte: Tulemused, Probleemid ja Võimalikud Täiustused
+## 7. Kokkuvõte: Tulemused
 Saavutused
 Projekti käigus realiseeritud peamised funktsionaalsused:
 
