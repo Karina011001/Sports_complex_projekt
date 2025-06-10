@@ -3,7 +3,7 @@
 author: "Karina Piir, Anastasia Baumer"
 ---
 
-# Sportkompleksi Veebirakendus: Arendusprojekt
+# Sportkompleksi Veebirakendus
 
 ---
 
