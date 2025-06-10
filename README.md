@@ -81,7 +81,7 @@ Terminalis ilmub link lokaalsele hostile (http://localhost:5173/).
 
 Avage see link oma veebibrauseris, et projekt käivitada.
 
-4. Frontend: Peamised Komponendid ja UI Kirjeldus
+## 4. Frontend: Peamised Komponendid ja UI Kirjeldus
 Peamised Komponendid
 Rakendus on ehitatud kasutades React.js teeki interaktiivse kasutajaliidese loomiseks ja Bootstrap'i, et tagada mobiilisõbralik ning kaasaegne disain.
 
@@ -106,8 +106,7 @@ Saalide Haldus: Võimaldab saale lisada, muuta või kustutada.
 
 Kasutajate Haldus: Võimaldab kasutajate andmeid vaadata, muuta, kustutada ja haldada nende rolle.
 
-
-5. UI Kirjeldus
+## 5. UI Kirjeldus
 
 Täielik Responsiivsus: Kõik lehed ja elemendid kohanduvad automaatselt erinevatele ekraanisuurustele, pakkudes mugavat kasutust nii arvutites kui ka mobiilsetes seadmetes.
 
@@ -117,8 +116,7 @@ Interaktiivsus: Nupud, sisendväljad ja teated annavad kasutajale kohest visuaal
 
 Kokkuvõttes on liides minimalistlik, selge ja intuitiivne, et kasutajal oleks võimalik keskenduda sisule, mitte otsimisele.
 
-
-6. Backend: Tehnoloogiad ja API Struktuur
+## 6. Backend: Tehnoloogiad ja API Struktuur
 Backend on ehitatud kasutades Node.js ja Express.js raamistikku, mis võimaldab lihtsalt ja skaleeritavalt hallata serveripoolset loogikat. Andmete salvestamiseks kasutame PostgreSQL andmebaasi.
 
 API on REST-põhine, kus iga marsruut vastab kindlale funktsioonile. Näiteks:
@@ -134,9 +132,7 @@ Paroolide turvaliseks salvestamiseks kasutame bcrypt krüpteerimist.
 
 Rollipõhine ligipääs on tagatud spetsiaalsete middleware’i abil: tavalised kasutajad pääsevad ligi ainult oma vaadetele, samas kui administraatoritele on loodud eraldi haldusmarsruudid.
 
-
-
-7. Kokkuvõte: Tulemused, Probleemid ja Võimalikud Täiustused
+## 7. Kokkuvõte: Tulemused, Probleemid ja Võimalikud Täiustused
 Saavutused
 Projekti käigus realiseeritud peamised funktsionaalsused:
 
